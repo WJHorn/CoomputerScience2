@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1517256981 source:c:\users\will\documents\school stuff and things\cs2\assgn1\main.cpp
+	<iostream>
+	<memory>
+	"deleteRepeats.cpp"
+
+1517257230 c:\users\will\documents\school stuff and things\cs2\assgn1\deleterepeats.cpp
+	<iostream>
+	<memory>
+	"deleteRepeats.hpp"
+
+1517191283 c:\users\will\documents\school stuff and things\cs2\assgn1\deleterepeats.hpp
+	<iostream>
+	<memory>
+
+1517257634 source:d:\users\will\documents\school stuff and things\cs2\assgn1\main.cpp
+	<iostream>
+	<memory>
+	"deleteRepeats.cpp"
+
+1517257634 d:\users\will\documents\school stuff and things\cs2\assgn1\deleterepeats.cpp
+	<iostream>
+	<memory>
+	"deleteRepeats.hpp"
+
+1517191283 d:\users\will\documents\school stuff and things\cs2\assgn1\deleterepeats.hpp
+	<iostream>
+	<memory>
+

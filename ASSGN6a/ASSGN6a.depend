@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1520661252 source:d:\users\will\documents\school stuff and things\cs2\assgn6a\stack.cpp
+
+1520661579 d:\users\will\documents\school stuff and things\cs2\assgn6a\stack.hpp
+	"NumStack.hpp"
+
+1520630433 d:\users\will\documents\school stuff and things\cs2\assgn6a\numstack.hpp
+	<iostream>
+
+1520661301 source:d:\users\will\documents\school stuff and things\cs2\assgn6a\main.cpp
+	<iostream>
+	"Stack.hpp"
+

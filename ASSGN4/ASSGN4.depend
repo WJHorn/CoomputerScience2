@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1518853558 source:d:\users\will\documents\school stuff and things\cs2\assgn4\main.cpp
+	<iostream>
+	<string>
+	"Complex.hpp"
+
+1518853563 d:\users\will\documents\school stuff and things\cs2\assgn4\complex.hpp
+	<string>
+
+1518853559 source:d:\users\will\documents\school stuff and things\cs2\assgn4\complex.cpp
+	<iostream>
+	<sstream>
+	"Complex.hpp"
+

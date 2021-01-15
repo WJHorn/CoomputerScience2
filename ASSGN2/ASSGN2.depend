@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1517802816 source:d:\users\will\documents\school stuff and things\cs2\assgn2\main.cpp
+	<iostream>
+	"Tax.cpp"
+
+1517802815 d:\users\will\documents\school stuff and things\cs2\assgn2\tax.cpp
+	"Tax.hpp"
+	"TaxConstants.hpp"
+
+1517802814 d:\users\will\documents\school stuff and things\cs2\assgn2\tax.hpp
+	"TaxDataType.hpp"
+
+1517802894 d:\users\will\documents\school stuff and things\cs2\assgn2\taxdatatype.hpp
+	"TaxConstants.hpp"
+
+1517802933 d:\users\will\documents\school stuff and things\cs2\assgn2\taxconstants.hpp
+

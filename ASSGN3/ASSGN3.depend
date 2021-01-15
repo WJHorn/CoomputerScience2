@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1518397623 source:d:\users\will\documents\school stuff and things\cs2\assgn3\main.cpp
+	<iostream>
+	<iostream>
+	<stdexcept>
+	"Rectangle.cpp"
+
+1518397622 d:\users\will\documents\school stuff and things\cs2\assgn3\rectangle.cpp
+	<iostream>
+	"Rectangle.hpp"
+
+1518397436 d:\users\will\documents\school stuff and things\cs2\assgn3\rectangle.hpp
+	<iostream>
+	"Point.cpp"
+
+1518397436 d:\users\will\documents\school stuff and things\cs2\assgn3\point.cpp
+	<iostream>
+	"Point.hpp"
+
+1518397436 d:\users\will\documents\school stuff and things\cs2\assgn3\point.hpp
+	<iostream>
+
