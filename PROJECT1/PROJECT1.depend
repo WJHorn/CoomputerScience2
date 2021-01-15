@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1520832079 source:d:\users\will\documents\school stuff and things\cs2\project1\test_rational.cpp
+	<string>
+	<iostream>
+	<iomanip>
+	<unistd.h>
+	"rational.hpp"
+
+1520830983 d:\users\will\documents\school stuff and things\cs2\project1\rational.hpp
+	<cstdlib>
+	<iosfwd>
+	<iostream>
+	<stdlib.h>
+
+1520840544 source:d:\users\will\documents\school stuff and things\cs2\project1\rational.cpp
+	"rational.hpp"
+	<iostream>
+

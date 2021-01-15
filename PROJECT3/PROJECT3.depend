@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1525315629 source:d:\users\will\documents\school stuff and things\cs2\project3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Tree.hpp"
+
+1525382612 d:\users\will\documents\school stuff and things\cs2\project3\tree.hpp
+	<iostream>
+	<vector>
+	"Treenode.hpp"
+
+1525313658 d:\users\will\documents\school stuff and things\cs2\project3\treenode.hpp
+

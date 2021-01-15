@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1525133199 source:d:\users\will\documents\school stuff and things\cs2\project2\main.cpp
+	<iostream>
+	"towers.h"
+
+1525133197 d:\users\will\documents\school stuff and things\cs2\project2\towers.h
+	"mystack.h"
+
+1525326551 d:\users\will\documents\school stuff and things\cs2\project2\mystack.h
+	<iostream>
+
+1525324743 source:d:\users\will\documents\school stuff and things\cs2\project2\towers.cpp
+	<iostream>
+	"towers.h"
+	"mystack.h"
+
